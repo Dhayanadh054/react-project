@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-const Day2pah1=()=>{
+const Day2=()=>{
     const[name,setName]=useState("");
     const[email,setEmail]=useState("");
     const[message,setMessage]=useState("");
@@ -40,5 +40,5 @@ const Day2pah1=()=>{
         </div>
     )
   }
-  export default Day2pah1;
+  export default Day2;
 
